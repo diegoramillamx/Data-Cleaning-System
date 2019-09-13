@@ -1,0 +1,73 @@
+C:\Users\diego\Desktop\ProyectoFinalMD\ProyectoFinalMD\obj\Debug\ProyectoFinalMD.csprojResolveAssemblyReference.cache
+C:\Users\diego\Desktop\ProyectoFinalMD\ProyectoFinalMD\obj\Debug\ProyectoFinalMD.MainForm.resources
+C:\Users\diego\Desktop\ProyectoFinalMD\ProyectoFinalMD\obj\Debug\ProyectoFinalMD.csproj.GenerateResource.Cache
+C:\Users\diego\Desktop\ProyectoFinalMD\ProyectoFinalMD\bin\Debug\ProyectoFinalMD.exe.config
+C:\Users\diego\Desktop\ProyectoFinalMD\ProyectoFinalMD\bin\Debug\ProyectoFinalMD.exe
+C:\Users\diego\Desktop\ProyectoFinalMD\ProyectoFinalMD\bin\Debug\ProyectoFinalMD.pdb
+C:\Users\diego\Desktop\ProyectoFinalMD\ProyectoFinalMD\obj\Debug\ProyectoFinalMD.exe
+C:\Users\diego\Desktop\ProyectoFinalMD\ProyectoFinalMD\obj\Debug\ProyectoFinalMD.pdb
+C:\Users\Alejandro Espinoza\Documents\9 no Semestre\Mineria de datos\Proyecto\Mineria de datos\ProyectoFinalMD\ProyectoFinalMD\bin\Debug\ProyectoFinalMD.exe.config
+C:\Users\Alejandro Espinoza\Documents\9 no Semestre\Mineria de datos\Proyecto\Mineria de datos\ProyectoFinalMD\ProyectoFinalMD\bin\Debug\ProyectoFinalMD.exe
+C:\Users\Alejandro Espinoza\Documents\9 no Semestre\Mineria de datos\Proyecto\Mineria de datos\ProyectoFinalMD\ProyectoFinalMD\bin\Debug\ProyectoFinalMD.pdb
+C:\Users\Alejandro Espinoza\Documents\9 no Semestre\Mineria de datos\Proyecto\Mineria de datos\ProyectoFinalMD\ProyectoFinalMD\obj\Debug\ProyectoFinalMD.csprojResolveAssemblyReference.cache
+C:\Users\Alejandro Espinoza\Documents\9 no Semestre\Mineria de datos\Proyecto\Mineria de datos\ProyectoFinalMD\ProyectoFinalMD\obj\Debug\ProyectoFinalMD.MainForm.resources
+C:\Users\Alejandro Espinoza\Documents\9 no Semestre\Mineria de datos\Proyecto\Mineria de datos\ProyectoFinalMD\ProyectoFinalMD\obj\Debug\ProyectoFinalMD.csproj.GenerateResource.Cache
+C:\Users\Alejandro Espinoza\Documents\9 no Semestre\Mineria de datos\Proyecto\Mineria de datos\ProyectoFinalMD\ProyectoFinalMD\obj\Debug\ProyectoFinalMD.exe
+C:\Users\Alejandro Espinoza\Documents\9 no Semestre\Mineria de datos\Proyecto\Mineria de datos\ProyectoFinalMD\ProyectoFinalMD\obj\Debug\ProyectoFinalMD.pdb
+C:\Users\diego\Desktop\Mineria de datos\ProyectoFinalMD\ProyectoFinalMD\bin\Debug\ProyectoFinalMD.exe.config
+C:\Users\diego\Desktop\Mineria de datos\ProyectoFinalMD\ProyectoFinalMD\bin\Debug\ProyectoFinalMD.exe
+C:\Users\diego\Desktop\Mineria de datos\ProyectoFinalMD\ProyectoFinalMD\bin\Debug\ProyectoFinalMD.pdb
+C:\Users\diego\Desktop\Mineria de datos\ProyectoFinalMD\ProyectoFinalMD\obj\Debug\ProyectoFinalMD.csprojResolveAssemblyReference.cache
+C:\Users\diego\Desktop\Mineria de datos\ProyectoFinalMD\ProyectoFinalMD\obj\Debug\ProyectoFinalMD.MainForm.resources
+C:\Users\diego\Desktop\Mineria de datos\ProyectoFinalMD\ProyectoFinalMD\obj\Debug\ProyectoFinalMD.csproj.GenerateResource.Cache
+C:\Users\diego\Desktop\Mineria de datos\ProyectoFinalMD\ProyectoFinalMD\obj\Debug\ProyectoFinalMD.exe
+C:\Users\diego\Desktop\Mineria de datos\ProyectoFinalMD\ProyectoFinalMD\obj\Debug\ProyectoFinalMD.pdb
+C:\Users\diego\Desktop\Mineria de datos\ProyectoFinalMD\ProyectoFinalMD\obj\Debug\ProyectoFinalMD.AgregarAtributo.resources
+C:\Users\diego\Desktop\Mineria de datos\ProyectoFinalMD\ProyectoFinalMD\obj\Debug\ProyectoFinalMD.ModificarAtributo.resources
+C:\Users\Alejandro Espinoza\Documents\9 no Semestre\Mineria de datos\Proyecto\Mineria de datos\ProyectoFinalMD\ProyectoFinalMD\obj\Debug\ProyectoFinalMD.AgregarAtributo.resources
+C:\Users\Alejandro Espinoza\Documents\9 no Semestre\Mineria de datos\Proyecto\Mineria de datos\ProyectoFinalMD\ProyectoFinalMD\obj\Debug\ProyectoFinalMD.ModificarAtributo.resources
+C:\Users\diego\Desktop\Mineria de datos\Mineria de datos\ProyectoFinalMD\ProyectoFinalMD\bin\Debug\ProyectoFinalMD.exe.config
+C:\Users\diego\Desktop\Mineria de datos\Mineria de datos\ProyectoFinalMD\ProyectoFinalMD\bin\Debug\ProyectoFinalMD.exe
+C:\Users\diego\Desktop\Mineria de datos\Mineria de datos\ProyectoFinalMD\ProyectoFinalMD\bin\Debug\ProyectoFinalMD.pdb
+C:\Users\diego\Desktop\Mineria de datos\Mineria de datos\ProyectoFinalMD\ProyectoFinalMD\obj\Debug\ProyectoFinalMD.csprojResolveAssemblyReference.cache
+C:\Users\diego\Desktop\Mineria de datos\Mineria de datos\ProyectoFinalMD\ProyectoFinalMD\obj\Debug\ProyectoFinalMD.AgregarAtributo.resources
+C:\Users\diego\Desktop\Mineria de datos\Mineria de datos\ProyectoFinalMD\ProyectoFinalMD\obj\Debug\ProyectoFinalMD.MainForm.resources
+C:\Users\diego\Desktop\Mineria de datos\Mineria de datos\ProyectoFinalMD\ProyectoFinalMD\obj\Debug\ProyectoFinalMD.ModificarAtributo.resources
+C:\Users\diego\Desktop\Mineria de datos\Mineria de datos\ProyectoFinalMD\ProyectoFinalMD\obj\Debug\ProyectoFinalMD.csproj.GenerateResource.Cache
+C:\Users\diego\Desktop\Mineria de datos\Mineria de datos\ProyectoFinalMD\ProyectoFinalMD\obj\Debug\ProyectoFinalMD.exe
+C:\Users\diego\Desktop\Mineria de datos\Mineria de datos\ProyectoFinalMD\ProyectoFinalMD\obj\Debug\ProyectoFinalMD.pdb
+C:\Users\Alejandro Espinoza\Documents\9 no Semestre\Mineria de datos\Proyecto\Nueva carpeta\Mineria de datos\ProyectoFinalMD\ProyectoFinalMD\bin\Debug\ProyectoFinalMD.exe.config
+C:\Users\Alejandro Espinoza\Documents\9 no Semestre\Mineria de datos\Proyecto\Nueva carpeta\Mineria de datos\ProyectoFinalMD\ProyectoFinalMD\bin\Debug\ProyectoFinalMD.exe
+C:\Users\Alejandro Espinoza\Documents\9 no Semestre\Mineria de datos\Proyecto\Nueva carpeta\Mineria de datos\ProyectoFinalMD\ProyectoFinalMD\bin\Debug\ProyectoFinalMD.pdb
+C:\Users\Alejandro Espinoza\Documents\9 no Semestre\Mineria de datos\Proyecto\Nueva carpeta\Mineria de datos\ProyectoFinalMD\ProyectoFinalMD\obj\Debug\ProyectoFinalMD.csprojResolveAssemblyReference.cache
+C:\Users\Alejandro Espinoza\Documents\9 no Semestre\Mineria de datos\Proyecto\Nueva carpeta\Mineria de datos\ProyectoFinalMD\ProyectoFinalMD\obj\Debug\ProyectoFinalMD.AgregarAtributo.resources
+C:\Users\Alejandro Espinoza\Documents\9 no Semestre\Mineria de datos\Proyecto\Nueva carpeta\Mineria de datos\ProyectoFinalMD\ProyectoFinalMD\obj\Debug\ProyectoFinalMD.MainForm.resources
+C:\Users\Alejandro Espinoza\Documents\9 no Semestre\Mineria de datos\Proyecto\Nueva carpeta\Mineria de datos\ProyectoFinalMD\ProyectoFinalMD\obj\Debug\ProyectoFinalMD.ModificarAtributo.resources
+C:\Users\Alejandro Espinoza\Documents\9 no Semestre\Mineria de datos\Proyecto\Nueva carpeta\Mineria de datos\ProyectoFinalMD\ProyectoFinalMD\obj\Debug\ProyectoFinalMD.csproj.GenerateResource.Cache
+C:\Users\Alejandro Espinoza\Documents\9 no Semestre\Mineria de datos\Proyecto\Nueva carpeta\Mineria de datos\ProyectoFinalMD\ProyectoFinalMD\obj\Debug\ProyectoFinalMD.exe
+C:\Users\Alejandro Espinoza\Documents\9 no Semestre\Mineria de datos\Proyecto\Nueva carpeta\Mineria de datos\ProyectoFinalMD\ProyectoFinalMD\obj\Debug\ProyectoFinalMD.pdb
+C:\Users\Alejandro Espinoza\Documents\9 no Semestre\Mineria de datos\Proyecto\Nueva carpeta\Mineria de datos\ProyectoFinalMD\ProyectoFinalMD\bin\Debug\ZedGraph.dll
+C:\Users\diego\Desktop\Mineria de datos\ProyectoFinalMD\ProyectoFinalMD\bin\Debug\ZedGraph.dll
+C:\Users\diego\Desktop\Mineria de datos\ProyectoFinalMD\ProyectoFinalMD\obj\Debug\ProyectoFinalMD.ErroresGramatica.resources
+C:\Users\diego\Desktop\Mineria de datos\ProyectoFinalMD\ProyectoFinalMD\obj\Debug\ProyectoFinalMD.MuestreoDatos.resources
+C:\Users\diego\Desktop\Mineria de datos\ProyectoFinalMD\ProyectoFinalMD\obj\Debug\ProyectoFinalMD.GuardarData.resources
+C:\Users\diego\Desktop\Mineria de datos\ProyectoFinalMD\ProyectoFinalMD\obj\Debug\ProyectoFinalMD.MaximoMinimo.resources
+C:\Users\diego\Desktop\Mineria de datos\ProyectoFinalMD\ProyectoFinalMD\obj\Debug\ProyectoFinalMD.BuscarReemplazar.resources
+C:\Users\diego\Desktop\Mineria de datos\ProyectoFinalMD\ProyectoFinalMD\obj\Debug\ProyectoFinalMD.ModificarExpresionRegular.resources
+C:\Users\diego\OneDrive\Documentos\Universidad de Guadajalara\6to Semestre\Minería de datos\Proyecto final - Software\Proyecto Mineria\ProyectoFinalMD\ProyectoFinalMD\bin\Debug\ProyectoFinalMD.exe.config
+C:\Users\diego\OneDrive\Documentos\Universidad de Guadajalara\6to Semestre\Minería de datos\Proyecto final - Software\Proyecto Mineria\ProyectoFinalMD\ProyectoFinalMD\bin\Debug\ProyectoFinalMD.exe
+C:\Users\diego\OneDrive\Documentos\Universidad de Guadajalara\6to Semestre\Minería de datos\Proyecto final - Software\Proyecto Mineria\ProyectoFinalMD\ProyectoFinalMD\bin\Debug\ProyectoFinalMD.pdb
+C:\Users\diego\OneDrive\Documentos\Universidad de Guadajalara\6to Semestre\Minería de datos\Proyecto final - Software\Proyecto Mineria\ProyectoFinalMD\ProyectoFinalMD\bin\Debug\ZedGraph.dll
+C:\Users\diego\OneDrive\Documentos\Universidad de Guadajalara\6to Semestre\Minería de datos\Proyecto final - Software\Proyecto Mineria\ProyectoFinalMD\ProyectoFinalMD\obj\Debug\ProyectoFinalMD.csprojResolveAssemblyReference.cache
+C:\Users\diego\OneDrive\Documentos\Universidad de Guadajalara\6to Semestre\Minería de datos\Proyecto final - Software\Proyecto Mineria\ProyectoFinalMD\ProyectoFinalMD\obj\Debug\ProyectoFinalMD.AgregarAtributo.resources
+C:\Users\diego\OneDrive\Documentos\Universidad de Guadajalara\6to Semestre\Minería de datos\Proyecto final - Software\Proyecto Mineria\ProyectoFinalMD\ProyectoFinalMD\obj\Debug\ProyectoFinalMD.BuscarReemplazar.resources
+C:\Users\diego\OneDrive\Documentos\Universidad de Guadajalara\6to Semestre\Minería de datos\Proyecto final - Software\Proyecto Mineria\ProyectoFinalMD\ProyectoFinalMD\obj\Debug\ProyectoFinalMD.ErroresGramatica.resources
+C:\Users\diego\OneDrive\Documentos\Universidad de Guadajalara\6to Semestre\Minería de datos\Proyecto final - Software\Proyecto Mineria\ProyectoFinalMD\ProyectoFinalMD\obj\Debug\ProyectoFinalMD.GuardarData.resources
+C:\Users\diego\OneDrive\Documentos\Universidad de Guadajalara\6to Semestre\Minería de datos\Proyecto final - Software\Proyecto Mineria\ProyectoFinalMD\ProyectoFinalMD\obj\Debug\ProyectoFinalMD.MainForm.resources
+C:\Users\diego\OneDrive\Documentos\Universidad de Guadajalara\6to Semestre\Minería de datos\Proyecto final - Software\Proyecto Mineria\ProyectoFinalMD\ProyectoFinalMD\obj\Debug\ProyectoFinalMD.MaximoMinimo.resources
+C:\Users\diego\OneDrive\Documentos\Universidad de Guadajalara\6to Semestre\Minería de datos\Proyecto final - Software\Proyecto Mineria\ProyectoFinalMD\ProyectoFinalMD\obj\Debug\ProyectoFinalMD.ModificarAtributo.resources
+C:\Users\diego\OneDrive\Documentos\Universidad de Guadajalara\6to Semestre\Minería de datos\Proyecto final - Software\Proyecto Mineria\ProyectoFinalMD\ProyectoFinalMD\obj\Debug\ProyectoFinalMD.ModificarExpresionRegular.resources
+C:\Users\diego\OneDrive\Documentos\Universidad de Guadajalara\6to Semestre\Minería de datos\Proyecto final - Software\Proyecto Mineria\ProyectoFinalMD\ProyectoFinalMD\obj\Debug\ProyectoFinalMD.MuestreoDatos.resources
+C:\Users\diego\OneDrive\Documentos\Universidad de Guadajalara\6to Semestre\Minería de datos\Proyecto final - Software\Proyecto Mineria\ProyectoFinalMD\ProyectoFinalMD\obj\Debug\ProyectoFinalMD.csproj.GenerateResource.Cache
+C:\Users\diego\OneDrive\Documentos\Universidad de Guadajalara\6to Semestre\Minería de datos\Proyecto final - Software\Proyecto Mineria\ProyectoFinalMD\ProyectoFinalMD\obj\Debug\ProyectoFinalMD.exe
+C:\Users\diego\OneDrive\Documentos\Universidad de Guadajalara\6to Semestre\Minería de datos\Proyecto final - Software\Proyecto Mineria\ProyectoFinalMD\ProyectoFinalMD\obj\Debug\ProyectoFinalMD.pdb
